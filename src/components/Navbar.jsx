@@ -3,8 +3,8 @@ import { RiArrowDropDownLine } from "react-icons/ri";
 
 function Navbar() {
   return (
-    <div className="bg-black">
-      <div className="flex text-white justify-center items-center py-5 gap-6 w-full">
+    <div className="bg-gray-900">
+      <div className="flex text-white justify-center items-center py-5 gap-6 w-10/12 mx-auto">
         <div>
           <p>RelyComply</p>
         </div>
